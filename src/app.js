@@ -1,1 +1,3 @@
-console.log("log1");
+const app = document.getElementById("app");
+
+app.innerHTML = `<h1>abcd</h1>`;
